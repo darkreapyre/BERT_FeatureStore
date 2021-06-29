@@ -1,2 +1,2 @@
 # SageMaker Feature Store Example
-Saving raw text embeddings intothe SageMaker Feature Store
+Saving raw text embeddings into the SageMaker Feature Store
